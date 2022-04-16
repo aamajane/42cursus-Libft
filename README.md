@@ -1,1 +1,1 @@
-# 42_cursus_Libft
+# 42_cursus-Libft
